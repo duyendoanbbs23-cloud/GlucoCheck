@@ -1,0 +1,3 @@
+# only needed to re-run train.py (the app itself does not need scikit-learn)
+-r requirements.txt
+scikit-learn>=1.4

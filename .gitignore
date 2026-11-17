@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# raw BRFSS data is large; download it from Kaggle/UCI instead of committing it
+diabetes_*.csv
+raw/
